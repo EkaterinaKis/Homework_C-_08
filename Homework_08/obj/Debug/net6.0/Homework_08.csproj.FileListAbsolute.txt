@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\bin\Debug\net6.0\Homework_08.exe
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\bin\Debug\net6.0\Homework_08.deps.json
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\bin\Debug\net6.0\Homework_08.runtimeconfig.json
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\bin\Debug\net6.0\Homework_08.dll
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\bin\Debug\net6.0\Homework_08.pdb
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.dll
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\refint\Homework_08.dll
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.pdb
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\Homework_08.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Учеба\Homework_C#_8\Homework_08\obj\Debug\net6.0\ref\Homework_08.dll
